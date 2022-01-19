@@ -7,27 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The purpose of my website will be to allow users to collaborate on various music projects.  It will allow the user to find other people to collaborate that they normally wouldnt have access to. Ideally bigger artists would join the platform with the focus of collaborating with "smaller" talent.  This could drive traffic just due to big names utilizing the platform.  This could also be a way for A&R reps to find talent through the platform.(These are big tasks im striving for but with the right marketing it could work)  The site will allow users to search for different genres in order to connect with like minded artists, producers, singers, bands etc.  This site wil serve as a social network for artist to be able to collab, discuss, and interact with eachother using the various features provided.  The site will function almost in the same way that reddit does.  It will allow users to create different groups to further the discussion on anything music related. Eventually i would like for users to be able to collaborate on anyting but honing in on music would be much more feasable starting out.
+This will be a website that scrapes eents from other websites and will allow users to search by location closest to them. The purpose of my website will be to allow users to search for events by a specific keyword.  This website will also allow users to save events that they are interested in as well as allow users to give a thumbs up or down on events they like.
 
 
 ### Features
-Search for collabs
--filter by category
+Search for events
+-filter by category/date etc
 
-#Chat with collaborators
--allow users to send eachother chat messages to collab
--will look similar to fb
+#Login/Sign Up
 
-#Stems
--upload stems of projects and allow others to collaborate on them
--kind of like guit hib but for music
--must have access to stems meaning the user has to grant access to the potential collaborator
--allow user to upload finished product with a zip folder(has to be a zip or else the website will be slow af
-
-#Create your own post for collabs to see
--title of post
--post content
--hot or cold( has to be something different from all the other social networks)
 
 #Search
 -search by user, genre
@@ -36,11 +24,7 @@ Search for collabs
 #User Profile
 -picture
 -Username,
--birthday,
--links to socials,
--collab preferences (#music, #tech, #movies etc),
--message,
--collab,
+-description
 
 #Login
 -allow user to login,
@@ -56,15 +40,11 @@ Search for collabs
 -repeat password,
 
 #Notifications
--collab requests,
--mentions,
--likes or dislikes
+events happening soon or to their preference
 
 #Nav Bar 
 -Home,
 -Notifications,
--messages,
--groups,
 -profile,
 -search,
 -login,
@@ -77,7 +57,8 @@ Front-End,
 -HTML,
 -CSS,
 -Node,
--Bootstrap,
+-express,,
+-cheerio
 -probably a lot more...
 
 Back-End
@@ -86,7 +67,7 @@ Back-End
 
 
 ### What I'll Have to Learn
-Express and more of a deep dive into angular(typescript)
+Express and more of a deep dive into web scraping
 
 
 
