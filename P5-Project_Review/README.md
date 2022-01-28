@@ -8,4 +8,4 @@ If you have made progress, and you engage with your mentor you will be marked as
 [Project Review Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-review)
 
 ## Submission Instructions
-Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.
+Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.[Project Presentation Scraper.pdf](https://github.com/JohnRudolph1/liftoff-assignments-1/files/7955591/Project.Presentation.Scraper.pdf)
